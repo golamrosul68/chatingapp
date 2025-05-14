@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import NotFound from "./pages/notFound";
 import Home from "./pages/Home";
